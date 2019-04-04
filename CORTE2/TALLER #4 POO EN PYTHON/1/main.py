@@ -1,22 +1,12 @@
-from class1 import *
+from Empleado import  *
 
 
-# Output: 10
-print(MyClass.a)
+empleado = Empleado("000","cedula","gerente",1.167, "jmbl1685@gmail.com", 3107075514, "Company 1")
 
-# Output: <function MyClass.func at 0x0000000003079BF8>
-print(MyClass.func)
 
-# Output: 'This is my second class'
-print(MyClass.__doc__)
+print("Empleados:" + empleado.id,  empleado.tId,  empleado.cargo, empleado.sueldo,  empleado.email,
+empleado.telefono,  empleado.empresa)
 
-ob = MyClass()
 
-# Output: 10
-print(ob.a)
 
-# Output: <function ob.func at 0x0000000003079BF8>
-print(ob.func)
 
-# Output: 'This is my second class'
-print(ob.__doc__)
