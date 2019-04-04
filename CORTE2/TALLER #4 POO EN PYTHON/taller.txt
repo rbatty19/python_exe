@@ -1,0 +1,7 @@
+1. Implemente la clase Empleado, con los atributos de identificacion, tipo de identificacion, cargo, sueldo, email, telefono, empresa y los respectivos metodos get/set para cada atributo. Construya la Clase Principal que haga uso de la Clase Empleado.
+
+
+2. Implemente la clase Estudiante, con los atributos de identificacion, tipo de identificacion, nombres, programa academico, semestre, institucion y los respectivos metodos get/set para cada atributo. Construya la Clase Principal que haga uso de la Clase Estudiante..
+
+
+3. Implemente mediante el uso de herencia, la Clase Vehiculo(padre) y las subclases Vehiculo Terrestre, Vehiculo Aereo. De la subclase Vehiculo Aereo heredan las clases Avion, Helicoptero, Dron. De la Clase Vehiculo Terrestre heredan las Clases Auto, Motocicleta y Bicicleta.
