@@ -1,7 +1,5 @@
-# Electiva 1 - Python
+# Electiva - Python
 
-#### Repositorio para las actividades de la asignatura Electiva 1 - Python
-
-> 5TO SEM
+#### Repositorio para las actividades de la asignatura Electiva - Python
 
 ![](https://www.elempleo.com/co/base-empresarial/tecnologico-comfenalco/image/logo_tecno_comfenalco.png)
