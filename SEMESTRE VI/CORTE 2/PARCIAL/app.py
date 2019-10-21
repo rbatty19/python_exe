@@ -7,6 +7,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database/empleados.db'
 
 db = SQLAlchemy(app)
 
+
 class Empleado(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     numero = db.Column(db.String(200))
